@@ -1,4 +1,4 @@
-# AI Comparative Analysis Workflow with Make.com
+# AI Photo with Make.com
 
 ## Project Overview
 
